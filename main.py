@@ -2,7 +2,7 @@ import re
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = 8992802234:AAE_89qVGU9KIc13a-GX8WLNRvTYPhEUMJ4
 
 sent_links = set()
 
